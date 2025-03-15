@@ -1,0 +1,15 @@
+﻿Console.WriteLine("                        _____________________                        ");
+Console.WriteLine("    /  .       .      (<$$$$$$>#####<::::::>)                        ");
+Console.WriteLine("   .      .     .  _/~~~~~~~~~~~~~~~~~~~~~~~~~\\_   .       .   .   \\ ");
+Console.WriteLine(".(          . .  /~                             ~\\ . .   .           ");
+Console.WriteLine("  ( . .        .~                                 ~.      .         )");
+Console.WriteLine("           ()\\/_____                           _____\\/()   .    .  ).");
+Console.WriteLine("(         .-''      ~~~~~~~~~~~~~~~~~~~~~~~~~~~     ``-.  ...        ");
+Console.WriteLine(".  . . .-~              __________________              ~-.  .    /  ");
+Console.WriteLine(" .   ..`~~/~~~~~~~~~~~~TTTTTTTTTTTTTTTTTTTT~~~~~~~~~~~~\\~~'    . ) . ");
+Console.WriteLine("    . .| | | #### #### || | | | [] | | | || #### #### | | | .        ");
+Console.WriteLine("   (   ;__\\|___________|++++++++++++++++++|___________|/__;.   .     ");
+Console.WriteLine("     .  (~~====___________________________________====~~~)           ");
+Console.WriteLine(" ( .  .. \\------_____________[ POLICE ]__________-------/ ..  .     )");
+Console.WriteLine("         .  |      ||         ~~~~~~~~       ||      |               ");
+Console.WriteLine("             \\_____/                          \\_____/                ");
